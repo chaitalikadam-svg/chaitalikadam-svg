@@ -1,7 +1,7 @@
 # Hi, I'm Chaitali Kadam 👋
 
 🎓 MSc Cloud Computing student at **National College of Ireland**, Dublin  
-☁️ Former Associate Tech Operations @ **Jio Platforms Ltd** (2 years)  
+☁️ Former Associate Tech Operations @ **Jio Platforms Ltd**
 📍 Based in Lucan, Co. Dublin | 🔗 [LinkedIn](https://www.linkedin.com/in/chaitali-prakash-kadam/) | 📧 chaitalikadam25@gmail.com
 
 
@@ -13,10 +13,7 @@ I enjoy building practical solutions — from data pipelines to web applications
 
 ## 🌍 Availability
 
-- Currently on **Stamp 2 Visa** — available 20 hrs/week  
-- Eligible for **Stamp 1G** (Third Level Graduate Scheme) from **October 2026** — full-time, no work permit required for 2 years
-*Open to graduate roles, internships, and part-time opportunities in Cloud, DevOps, or Data Engineering in Ireland.*
-
+- Currently on **Stamp 1G** (Third Level Graduate Scheme) full-time, no work permit required for 2 years
 
 ## 🛠️ Tech Stack
 
