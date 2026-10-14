@@ -33,7 +33,7 @@ I enjoy building practical solutions — from data pipelines to web applications
 
 | Degree | Institution | Year |
 |---|---|---|
-| MSc Cloud Computing | National College of Ireland, Dublin | 2025 – 2026 |
+| MSc Cloud Computing (1:1) | National College of Ireland, Dublin | 2025 – 2026 |
 | B.Tech Computer Science (1:1) | Pillai College of Engineering, Mumbai | 2019 – 2023 |
 
 **MSc Modules:** Cloud Architectures · DevOpsSec · Scalable Cloud Programming · Cloud ML · Blockchain · Fog & Edge Computing · Data Governance
